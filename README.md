@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://jad.li">
+  <a href="https://github.com/serenhope">
     <img alt="title" src="https://raw.githubusercontent.com/zephyrinee/zephyrinee/refs/heads/main/images.png" />
   </a>
 </p>
