@@ -22,10 +22,9 @@ Favorite Stacks
 <details>
   <summary>Tools & Languages</summary>
  
-  [![](https://skillicons.dev/icons?i=js,nodejs,html,css,mongodb,nano,github,git,ubuntu)](https://skillicons.dev)
+  [![](https://skillicons.dev/icons?i=js,nodejs,html,css,mongodb,vscode,github,git,ubuntu)](https://skillicons.dev)
 </details>
 
 
 ## ✉️ Reach me
 - [Telegram](https://t.me/pherine)
-- 
