@@ -22,7 +22,7 @@ Favorite Stacks
 <details>
   <summary>Tools & Languages</summary>
  
-  [![](https://skillicons.dev/icons?i=js,nodejs,py,claude,html,css,mongodb,vscode,github,git,ubuntu)](https://skillicons.dev)
+  [![](https://skillicons.dev/icons?i=js,nodejs,py,html,css,mongodb,vscode,github,git,ubuntu)](https://skillicons.dev)
 </details>
 
 
